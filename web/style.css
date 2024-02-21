@@ -1,0 +1,32 @@
+body{
+    background-color: cyan;
+}
+.Login{
+    width: 400px;
+    overflow: hidden;
+    margin: 100px 0 0 350px;
+    padding : 80px;
+    background-blend-mode: color-burn;
+    border-radius: 15px;
+}
+h1{
+    text-align: center;
+}
+input{
+    width: 100%;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    border: 1px solid;
+}
+#log{
+    border: none;
+    border-radius: 17px;
+    background-color: rgb(234, 119, 110);
+    letter-spacing: 10px;
+}
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+}
